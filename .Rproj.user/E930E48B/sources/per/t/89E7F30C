@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556546896416.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2920138774",
+    "id" : "89E7F30C",
+    "lastKnownWriteTime" : 1557513155,
+    "last_content_update" : 1557513155218,
+    "path" : "D:/Diplomski analiza suse u R/Analiza u R/penman-monteith.R",
+    "project_path" : "penman-monteith.R",
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535706568570.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "59468459",
+    "id" : "843386A4",
+    "lastKnownWriteTime" : 1555500715,
+    "last_content_update" : 1555500715431,
+    "path" : "D:/Diplomski analiza suse u R/Analiza u R/SPI.R",
+    "project_path" : "SPI.R",
+    "properties" : {
+        "cursorPosition" : "32,31",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

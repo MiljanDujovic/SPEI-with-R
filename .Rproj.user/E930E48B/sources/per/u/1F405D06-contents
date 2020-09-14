@@ -1,0 +1,2 @@
+podaci = read.csv("MeasurementExport.csv", sep = ";", stringsAsFactors = FALSE)
+write.xlsx(BilansPenman, file = "excelBilansPEN.xlsx", sheetName = "BilansPEN", col.names = TRUE, row.names = TRUE, append = FALSE)
